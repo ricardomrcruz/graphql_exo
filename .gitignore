@@ -1,0 +1,11 @@
+# Ignore all log files
+*.log
+
+# But track this specific log file
+!important.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore a specific file
+secret-config.json
